@@ -1,0 +1,12 @@
+[package]
+name = "sql_type_check"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+postgres = "0.19.7"
+regex = "1.5.4"
+dotenv = "0.15.0"
+dotenv_codegen = "0.15.0"

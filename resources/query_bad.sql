@@ -1,0 +1,1 @@
+SELECT * FROM customer WHERE age > $my_param::INT;
